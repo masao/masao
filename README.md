@@ -1,8 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masao&count_private=true&show_icons=true" />
+<a href="https://github.com/stats-organization/github-readme-stats">
+  <img align="left" src="./profile/stats.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masao" />
+<a href="https://github.com/stats-organization/github-readme-stats">
+  <img align="left" src="./profile/top-langs.svg" />
 </a>
 <!--
 **masao/masao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
