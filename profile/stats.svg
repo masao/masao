@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Masao Takaku's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 48, Total Commits  (last year) : 623, Total PRs: 62, Total Issues: 1095, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 48, Total Commits  (last year) : 623, Total PRs: 62, Total Issues: 1096, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 80.09398424945265;
+        stroke-dashoffset: 80.09398424945263;
       }
     }
   
